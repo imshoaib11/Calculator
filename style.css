@@ -1,0 +1,53 @@
+.btn {
+    padding: 20px;
+    margin: auto;
+    height: 20px;
+    width: 20px;
+    background-color:lightgrey ;
+    border: 1px solid lightgrey;
+    border-style:hidden;
+    font-size: medium;
+    cursor: pointer;
+}
+
+.row{
+    background-color: lightgrey;
+}
+
+.btn-color{
+    color: rgb(45, 162, 230);
+}
+
+.eq-color{
+    width: 80px;
+    background-color: rgb(45, 162, 230);
+    color: white;
+    padding: 20px;
+    margin: auto;
+    height: 20px;
+    border-style:hidden;
+    font-size: medium;
+    cursor: pointer;
+    margin-left: 5px;
+}
+
+.container{
+    background-color: lightgrey;
+    
+
+}
+
+.ip-class{
+    height: 50px;
+    background-color: rgb(167, 166, 166);
+    font-size: large;
+    width: 180px;
+    margin-top: 10px;
+    
+}
+
+#description{
+    font-size: medium;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
